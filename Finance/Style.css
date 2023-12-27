@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+    min-height: 100vh;
+}
+#myCarousel{
+    width: 100vw;
+    height: 65vh;
+}
+.iim{
+    width: 100vw;
+    height: 65vh;
+}
+
+#iimm{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+}
+#rim{
+    margin-top: 3vh;
+}
+.imr{
+    box-shadow: 1px 7px 7px 1px;
+    z-index: 100;
+}
+#frm{
+    width: 100vw;
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 2vh;
+}
+.frmf{
+    width: 40vw;
+    height: 50vh;
+}
+.frms{
+    width: 30vw;
+    height: 50vh;
+}
+form{
+    z-index: 200;
+}
+#prc{
+    margin-top: 5vh;
+}
+#iicn{
+    margin-right: 5vw;
+}
